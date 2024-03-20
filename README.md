@@ -1,6 +1,6 @@
 # Competitive_programs
-** Given a number N followed by N numbers(negative or positive) print the maximum sum of any subarray of the array.**
-Input Size : 1 <= N <= 100000
+** Given a number N followed by N numbers(negative or positive) print the maximum sum of any subarray of the array.
+Input Size : 1 <= N <= 100000**
 
 **INPUT**
 **6**
